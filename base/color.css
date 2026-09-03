@@ -915,8 +915,8 @@
   --i-color-step-color-disabled-text: var(--i-color-text-color-disabled);
   --i-color-step-color-disabled-step: var(--i-color-text-color-disabled);
   --i-color-tab-color-background: var(--i-color-background-default);
-  --i-color-tab-color-text: var(--i-color-text-color-default);
-  --i-color-tab-color-border: var(--i-color-border-default);
+  --i-color-tab-color-text: var(--i-color-text-color-disabled);
+  --i-color-tab-color-border: var(--i-color-border-disabled);
   --i-color-tab-color-hover-background: var(--i-color-background-hover);
   --i-color-tab-color-hover-text: var(--i-color-text-color-default);
   --i-color-tab-color-hover-border: var(--i-color-border-default);
@@ -1147,4 +1147,10 @@
   --i-color-text-color-graph-c: var(--i-color-text-color-graph-c);
   --i-color-text-color-graph-d: var(--i-color-text-color-graph-d);
   --i-color-text-color-graph-e: var(--i-color-text-color-graph-e);
+  --i-color-popover-color-background: var(--i-color-background-default);
+  --i-color-popover-color-text: var(--i-color-text-color-secondary);
+  --i-color-popover-color-border: var(--i-color-border-default);
+  --i-color-popover-color-arrow: var(--i-color-icon-color-secondary);
+  --i-color-popover-color-text-tooltip-titles: var(--i-color-text-color-default);
+  --i-color-popover-color-text-tooltip-body: var(--i-color-text-color-secondary);
 }
