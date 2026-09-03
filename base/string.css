@@ -60,4 +60,5 @@
   --i-string-two-pane-font-family: var(--i-string-text-body-family);
   --i-string-text-heading-family: var(--i-string-typography-font-family-lato);
   --i-string-text-subtitle-family: var(--i-string-typography-font-family-lato);
+  --i-string-popover-font-family: var(--i-string-text-body-family);
 }
